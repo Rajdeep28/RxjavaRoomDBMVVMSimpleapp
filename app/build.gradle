@@ -32,25 +32,12 @@ android {
     }
 }
 
-def appCompatVersion = "1.3.1"
-def legacyVersion = "1.0.0"
 def lifecycleVersion = '2.2.0'
 def roomVersion = '2.3.0'
-def constraintLayoutVersion = '2.1.1'
-def materialVersion = '1.4.0'
-def testRunnerVersion = '1.4.0'
-def espressoVersion = '3.4.0'
 
 def gsonVersion = '2.8.8'
-def dataBindingVersion = '3.1.4'
 def retrofitVersion = '2.9.0'
 def picassoVersion = '2.5.2'
-def exifVersion = '1.3.3'
-def junitVersion = '4.13.2'
-def usabillaVersion = '7.5.1'
-def playcore = '1.10.2'
-def marketoVersion = '0.8.4'
-def jnaVersion = '4.5.2'
 
 dependencies {
 
